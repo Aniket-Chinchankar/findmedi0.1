@@ -1,0 +1,9 @@
+torch
+streamlit
+pandas
+numpy
+onnxruntime
+scikit-learn
+pillow
+pytesseract
+transformers
